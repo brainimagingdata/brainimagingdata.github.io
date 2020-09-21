@@ -1,26 +1,28 @@
 ---
-title: "Neuroimaging Derived Data"
+title: "Functional MRI Data Derived from the Human Connectome Project- Young Adult"
 ---
 
-Computed data products from neuroimaging data.
-General intro, computing.
-
----
-## Functional Data Derived from the Human Connectome Project- Young Adult (HCP-YA)
-[Description goes here]
+[Brief description goes here]
 
 [Citation to the paper]
 
+## Processing Pipeline
+[How did we process the data]
+
+## File Structure
+[Directory and file structure
+
+## Examples
+[Examples of loading the data in Python and Matlab]
+
+## Download Links
 ### Correlation Matrices
-Download: [All Matrices](https://something.edu)
+With GSR: [Schaefer 100](https://something.edu), [Schaefer 200](https://something.edu), [Schaefer 300](https://something.edu), [Schaefer 400](https://something.edu), [Schaefer 500](https://something.edu), [Schaefer 600](https://something.edu), [Schaefer 700](https://something.edu), [Schaefer 800](https://something.edu), [Schaefer 900](https://something.edu)
 
-[Description of the file structure]
-
-[Examples]
+Without GSR: [Schaefer 100](https://something.edu), [Schaefer 200](https://something.edu), [Schaefer 300](https://something.edu), [Schaefer 400](https://something.edu), [Schaefer 500](https://something.edu), [Schaefer 600](https://something.edu), [Schaefer 700](https://something.edu), [Schaefer 800](https://something.edu), [Schaefer 900](https://something.edu)
 
 ### Parcellated Timeseries
-Downloads: [Schaefer 100](https://something.edu), [Schaefer 200](https://something.edu), [Schaefer 300](https://something.edu), [Schaefer 400](https://something.edu), [Schaefer 500](https://something.edu), [Schaefer 600](https://something.edu), [Schaefer 700](https://something.edu), [Schaefer 800](https://something.edu), [Schaefer 900](https://something.edu)
+With GSR: [Schaefer 100](https://something.edu), [Schaefer 200](https://something.edu), [Schaefer 300](https://something.edu), [Schaefer 400](https://something.edu), [Schaefer 500](https://something.edu), [Schaefer 600](https://something.edu), [Schaefer 700](https://something.edu), [Schaefer 800](https://something.edu), [Schaefer 900](https://something.edu)
 
-[Description of the file structure]
+Without GSR: [Schaefer 100](https://something.edu), [Schaefer 200](https://something.edu), [Schaefer 300](https://something.edu), [Schaefer 400](https://something.edu), [Schaefer 500](https://something.edu), [Schaefer 600](https://something.edu), [Schaefer 700](https://something.edu), [Schaefer 800](https://something.edu), [Schaefer 900](https://something.edu)
 
-[Examples]
